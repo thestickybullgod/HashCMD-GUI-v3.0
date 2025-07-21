@@ -1,0 +1,30 @@
+# 🔒 Windows & PowerShell Artifacts
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# 🔧 PowerShell-generated UI logs
+HashCMD_GUI_Log.txt
+
+# 💾 Backup or temp config
+.bak
+.tmp
+.old
+.log
+
+# 🌫️ Runtime cache or vault expansion
+__pycache__
+.ps1~
+.ps1.bak
+
+# 🗂️ IDE cruft (if editing in VS Code or ISE)
+.vscode
+.idea
+.suo
+.user
+.ncb
+
+# 🧪 Test scripts & experimental branches
+test_.ps1
+scratchpad.ps1
+dev_rituals
