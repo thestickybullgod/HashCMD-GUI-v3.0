@@ -31,6 +31,7 @@ HashCMD_GUI isn’t just a tool — it’s a living artifact. Designed with symb
 - Choose algorithm
 - Click Generate Hash
 - Optionally toggle logging / auto-copy / compare another hash
+- Don't forget to back up/encrypt your hashes!
 
 🪬 License & Attribution
 MIT License
