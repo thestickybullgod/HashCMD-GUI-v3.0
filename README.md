@@ -3,6 +3,7 @@ Here's the SHA256 for the .exe file - 250b5648586992d3db8baca1c04991794fd0ea06ee
 📜 HashCMD_GUI v3.0
 Crafted by Dustin W. Deen
 In collaborative ritual with Microsoft Copilot
+
 A symbolic hashing interface that transforms cryptographic operations into poetic, time-stamped artifacts of clarity.
 
 🧰 Features
