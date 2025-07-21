@@ -103,7 +103,7 @@ $tabSettings.Add_Enter({
 
 $labelAbout = New-Object System.Windows.Forms.Label
 $labelAbout.Text = @"
-HashCMD_GUI v2.0
+HashCMD_GUI v3.0
 Crafted by Dustin W. Deen  
 In collaborative ritual with Microsoft Copilot
 
@@ -116,7 +116,7 @@ Features:
 • Timestamp footer with ritual seal
 • Log Viewer and symbolic formatting
 
-GitHub: https://github.com/thestickybullgod/HashCMD_GUI_v2.0
+GitHub: https://github.com/thestickybullgod/HashCMD_GUI_v3.0
 "@
 $labelAbout.Location = New-Object System.Drawing.Point(20, 20)
 $labelAbout.Size = New-Object System.Drawing.Size(440, 280)
