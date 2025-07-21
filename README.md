@@ -33,7 +33,7 @@ HashCMD_GUI isn’t just a tool — it’s a living artifact. Designed with symb
 - Click Generate Hash
 - Optionally toggle logging / auto-copy / compare another hash
 - Open multiple instances for side-by-side viewing
-- Don't forget to back-up & encrypt your hash log (followed by clicking "Clear Log File")
+- Don't forget to back-up & encrypt your hash log (followed by clicking "Clear Log File" in Settings)
 
 🪬 License & Attribution
 MIT License
