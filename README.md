@@ -1,4 +1,4 @@
-Here's the SHA256 for the .exe file - 6c871260a37a5969e23b969b786f601aa09e1d52bbc75d75d05c422894632930
+SHA256 of HashCMD_GUI_v3.0.exe — 6c871260a37a5969e23b969b786f601aa09e1d52bbc75d75d05c422894632930
 
 📜 HashCMD_GUI v3.0
 Crafted by Dustin W. Deen
