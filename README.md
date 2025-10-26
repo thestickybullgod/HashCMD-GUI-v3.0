@@ -14,7 +14,6 @@ A symbolic hashing interface that transforms cryptographic operations into poeti
 - Log viewer tab with optional logging toggle
 - Auto-copy feature for generated hashes
 - Compare hash verdicts (✅ MATCH, ❌ MISMATCH) with symbolic glyphs and color feedback
-- Encrypted log handling architecture (expandable with vault logic)
 - Clear log and clear output buttons for scroll management
 
 💡 Philosophy
